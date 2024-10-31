@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Preenchimento de Formulário SharePoint",
+    "name": "Preenchimento de Formulário SharePoint de Notificação de Impacto",
     "version": "1.0",
     "description": "Preenche automaticamente o formulário SharePoint com ID e emails.",
     "permissions": ["scripting", "activeTab"],
