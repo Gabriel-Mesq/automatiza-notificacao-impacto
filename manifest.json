@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Preenchimento de Formulário SharePoint",
+    "version": "1.0",
+    "description": "Preenche automaticamente o formulário SharePoint com ID e emails.",
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": [
+      "https://lggo.sharepoint.com/*"
+    ]
+  }
+  
